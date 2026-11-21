@@ -78,6 +78,11 @@ Investigate the states with the highest freight-cost burden and evaluate logisti
 
 ---
 
+## Tableau Dashboard
+
+[View Interactive Logistics Dashboard on Tableau Public](https://public.tableau.com:9443/views/FreightLogisticsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Tableau Dashboard Preview](./images/tableau-dashboard.png)
 ## Tech Stack & Project Setup
 
 * **Language:** Python 3.12+
